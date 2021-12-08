@@ -11,7 +11,7 @@ by Building Counterfactuals and Multilingual Mixing
 
 <h4 align="center">
     <p>
-        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README_en.md">English</a>|
+        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README_en.md">English</a> |
         <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README.md">简体中文</a> |
         <b>繁體中文</b>
     <p>
