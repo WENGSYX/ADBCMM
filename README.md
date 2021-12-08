@@ -1,6 +1,8 @@
-<h2 align="center">
-    <big><big>ADBCMM</big></big>  : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing
-</h2>
+<p align="center">
+    <big><big> <big><big>ADBCMM</big></big> : Acronym Disambiguation</big></big></p>
+<h1>
+    by Building Counterfactuals and Multilingual Mixing
+</h1>
 
 
 <h4 align="center">
