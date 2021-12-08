@@ -1,9 +1,9 @@
-<h3 align="center">
+<h1 align="center">
     <big><big>ADBCMM</big></big>  :Acronym Disambiguation
-</h3>
-<h3 align="center">
+</h1>
+<h1 align="center">
 by Building Counterfactuals and Multilingual Mixing
-</h3>
+</h1>
 
 <hr>
 
