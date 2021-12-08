@@ -18,7 +18,7 @@ by Building Counterfactuals and Multilingual Mixing
 </h4>
 
 <h3 align="center">
-    <p>State-of-the-art of SUD@AAAI2022 AD task</p>
+    <p>State-of-the-art of SDU@AAAI2022 AD task</p>
 </h3>
 
 
