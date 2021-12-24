@@ -25,7 +25,7 @@ by Building Counterfactuals and Multilingual Mixing
 
 ####               这个比赛给了四个不同语言或领域的数据集，分别是英语（法律），英语（科学），法语和西班牙语。对于英语数据集，本文不作对比（但使用我们的ADBCMM方法，mdeberta-base模型的效果在英语数据集上仍然能超过deberta-xxlarge模型的baseline性能），本文重点放在低资源数据集中。
 
-<center><img src="img/1.png" alt="img" style="zoom:50%;" /></center
+<center><img src="img/1.png" alt="img" style="zoom:50%;" /></center>
 
 
 
