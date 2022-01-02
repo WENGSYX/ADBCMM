@@ -111,3 +111,15 @@ by Building Counterfactuals and Multilingual Mixing
 
 #### 最后更新日期：21年12月8日  剩余内容稍待片刻
 
+
+## 论文引用
+> @misc{weng2021adbcmm,
+>       title={ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing}, 
+>       author={Yixuan Weng and Fei Xia and Bin Li and Xiusheng Huang and Shizhu He and Kang Liu and Jun Zhao},
+>       year={2021},
+>       eprint={2112.08991},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.CL}
+> }
+
+
